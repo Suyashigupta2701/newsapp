@@ -1,0 +1,79 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "Sam Buckingham-Jones",
+      "title": "ASX SWM: Media buyers say cocaine, prostitute claims engulfing Seven West Media won’t dampen appetite for sports advertising",
+      "description": "Weeks of headlines haven’t dampened advertiser appetite for Seven’s footy ads, media buyers say. But that is not strictly true for its reputation and its board.",
+      "url": "http://www.afr.com/companies/media-and-marketing/the-damage-done-to-seven-west-media-from-cocaine-and-sex-worker-claims-20240412-p5fjaq",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.1936%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_90/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/8664e7dbfc2dfd8bae28834b0f34b5963527123e",
+      "publishedAt": "2024-04-12T08:31:56Z",
+      "content": "I also think the public at large are tiring of this whole Bruce Lehrmann / Brittany Higgins / Network Ten / Lisa Wilkinson saga. It makes stories for journalists, no doubt the click performance of th… [+2540 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Sports News | Breaking & Latest Sports News | Reuters",
+      "description": "Find latest sports news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
+      "url": "https://www.reuters.com/sports/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=186",
+      "publishedAt": "2024-04-12T04:52:16.8299022Z",
+      "content": null
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": null,
+      "title": "O.J. Simpson dies of cancer at age 76, family says - ESPN",
+      "description": "O.J. Simpson, whose life as an American sports hero quickly turned when he was charged with the 1994 slayings of his ex-wife and her friend, died Wednesday at the age of 76, his family said.",
+      "url": "https://www.espn.com/nfl/story/_/id/39920478/oj-simpson-dies-cancer-age-76-family-says",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0411%2Fr1317371_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-04-11T14:47:00Z",
+      "content": "Apr 11, 2024, 10:47 AM ET\r\nLAS VEGAS -- O.J. Simpson, the decorated football superstar and Hollywood actor who was acquitted of charges he killed his former wife and her friend but later found liable… [+7890 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "John Fanta, Michael Cohen",
+      "title": "College basketball roundtable: Michigan State's tourney streak, top transfers and more",
+      "description": "Is Michigan State's NCAA Tournament streak in jeopardy? Who is the top transfer in the nation? FOX Sports' college basketball experts answer that and more.",
+      "url": "http://www.foxsports.com/stories/college-basketball/college-basketball-roundtable-michigan-states-tourney-streak-top-transfers-and-more",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/02/1408/814/2024-02-29_College-Basketball-Roundtable_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2024-02-29T20:59:30Z",
+      "content": "It's almost time, ladies and gentlemen!\r\nThat long-awaited, fun-filled day when you wait to hear your team's name called before breaking out a pen and paper to fill out your NCAA Tournament bracket i… [+17577 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "New Micah Parsons Show ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/490566-the-edge-w-micah-parsons-ep-11-vod",
+      "urlToImage": null,
+      "publishedAt": "2023-11-27T20:37:24.6381564Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": " Mikal Bridges Interview ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/491103-taylor-rooks-x-mikal-bridges-vod",
+      "urlToImage": null,
+      "publishedAt": "2023-11-27T20:37:24.3882176Z",
+      "content": "Nets star sits down with Taylor Rooks for exclusive convo."
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters Graphics",
+      "title": "Reuters Graphics - Charts, Maps, Interactive Graphics and Videos",
+      "description": "The latest world news - politics, sports, culture, science and environment - from our graphics journalists in Singapore, Bangalore, London and New York.",
+      "url": "https://www.reuters.com/graphics/",
+      "urlToImage": "https://www.reuters.com/graphics/cdn/img/home.jpg",
+      "publishedAt": "2020-12-21T00:00:00Z",
+      "content": null
+    }
+  ]
+}
